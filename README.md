@@ -1,2 +1,1 @@
-# s
-study and other stuff
+# idk
