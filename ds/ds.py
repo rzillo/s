@@ -16,3 +16,12 @@ rng = np.random.default_rng(seed=1701)
 x1 = rng.integers(10, size=6) # one-dimensional array
 x2 = rng.integers(10, size=(3, 4)) # two-dimensional array
 x3 = rng.integers(10, size=(3, 4, 5)) # three-dimensional array
+
+
+def compute_reciprocals(values):
+ output = np.empty(len(values))
+ for i in range(len(values)):
+ output[i] = 1.0 / values[i]
+ return output
+ values = rng.integers(1, 10, size=5)
+ compute_reciprocals(values)
