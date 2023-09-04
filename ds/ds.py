@@ -26,5 +26,5 @@ def compute_reciprocals(values):
  return output
   
 values = rng.integers(1, 10, size=5)
-values = rng.integers(2, 30, size=5)
+#values = rng.integers(2, 30, size=5)
 compute_reciprocals(values)
