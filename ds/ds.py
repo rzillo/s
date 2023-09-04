@@ -18,6 +18,7 @@ x2 = rng.integers(10, size=(3, 4)) # two-dimensional array
 x3 = rng.integers(10, size=(3, 4, 5)) # three-dimensional array
 
 
+#??
 def compute_reciprocals(values):
  output = np.empty(len(values))
  for i in range(len(values)):
