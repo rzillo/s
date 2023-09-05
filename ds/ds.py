@@ -16,7 +16,7 @@ rng = np.random.default_rng(seed=1701)
 x1 = rng.integers(10, size=6) # one-dimensional array
 x2 = rng.integers(10, size=(3, 4)) # two-dimensional array
 x3 = rng.integers(10, size=(3, 4, 5)) # three-dimensional array
-
+x4 = rng.integers(10, size=(2, 2, 4)) # three-dimensional array test
 
 #??
 def compute_reciprocals(values):
