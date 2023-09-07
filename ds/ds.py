@@ -28,3 +28,6 @@ def compute_reciprocals(values):
 values = rng.integers(1, 10, size=5)
 #values = rng.integers(2, 30, size=5)
 compute_reciprocals(values)
+
+
+#trying not to kill myself
