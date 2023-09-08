@@ -30,4 +30,4 @@ values = rng.integers(1, 10, size=5)
 compute_reciprocals(values)
 
 
-#trying not to kill myself
+# :3
