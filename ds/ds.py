@@ -1,5 +1,7 @@
 import numpy as np
 import pandas as pd
+import random
+
 
 a = np.array([0, 1, 2, 3, 4, 5, 6])
 #math and better calculations
@@ -35,3 +37,5 @@ compute_reciprocals(values)
 test1 = np.zeros(5, 5)
 test_id = np.identity(5)
 one1 = np.ones(2, 3)
+
+#
