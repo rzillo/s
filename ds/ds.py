@@ -34,3 +34,4 @@ compute_reciprocals(values)
 # try other array dimensions
 test1 = np.zeros(5, 5)
 test_id = np.identity(5)
+one1 = np.ones(2, 3)
