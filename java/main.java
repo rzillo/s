@@ -1,6 +1,10 @@
 public class MyClass {
     public static void main(String args[]) {
         
-      System.out.println("henlo");
+        int max = Integer.MAX_VALUE;
+        int min = Integer.MIN_VALUE;
+        
+      System.out.println(max);
+      System.out.println(min);
     }
 }
