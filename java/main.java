@@ -8,6 +8,7 @@ public class MyClass {
         float minf = Float.MIN_VALUE;
 
         bool t = true;
+        bool f = false;
         
         System.out.println(max);     
         System.out.println(min);
