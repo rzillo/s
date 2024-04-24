@@ -12,10 +12,15 @@ public class MyClass {
 
         bool t = true;
         bool f = false;
+
+        int first = 10;
+        int second = 30;
+        int third = first + second;
         
         System.out.println(max, min);  
         System.out.println(maxf, minf);
         System.out.println(x, y);
+        System.out.println("The sum is " + third)
         
     }
 }
