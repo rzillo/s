@@ -10,9 +10,8 @@ public class MyClass {
         bool t = true;
         bool f = false;
         
-        System.out.println(max);     
-        System.out.println(min);
-        System.out.println(maxf);
-        System.out.println(minf);
+        System.out.println(max, min);  
+        System.out.println(maxf, minf);
+        
     }
 }
