@@ -7,11 +7,11 @@ public class MyClass {
         float maxf = Float.MAX_VALUE;
         float minf = Float.MIN_VALUE;
 
-        double x = Double.MAX_DOUBLE;
-        double y = Double.MIN_DOUBLE;
+        double x = Double.MAX_VALUE;
+        double y = Double.MIN_VALUE;
 
-        bool t = true;
-        bool f = false;
+        boolean t = true;
+        boolean f = false;
 
         int first = 10;
         int second = 30;
