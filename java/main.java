@@ -20,7 +20,7 @@ public class MyClass {
         System.out.println(max, min);  
         System.out.println(maxf, minf);
         System.out.println(x, y);
-        System.out.println("The sum is " + third)
+        System.out.println("The sum is " + third);
         
     }
 }
