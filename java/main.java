@@ -7,11 +7,15 @@ public class MyClass {
         float maxf = Float.MAX_VALUE;
         float minf = Float.MIN_VALUE;
 
+        double x = Double.MAX_DOUBLE;
+        double y = Double.MIN_DOUBLE;
+
         bool t = true;
         bool f = false;
         
         System.out.println(max, min);  
         System.out.println(maxf, minf);
+        System.out.println(x, y);
         
     }
 }
