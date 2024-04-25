@@ -17,9 +17,12 @@ public class MyClass {
         int second = 30;
         int third = first + second;
         
-        System.out.println(max, min);  
-        System.out.println(maxf, minf);
-        System.out.println(x, y);
+        System.out.println("max int value = " + max);
+        System.out.println("min int value = " + min);
+        System.out.println("max float value = " + maxf);
+        System.out.println("min float value = " + minf);
+        System.out.println("max double value = " + x);
+        System.out.println("min double value = " + y);
         System.out.println("The sum is " + third);
         
     }
