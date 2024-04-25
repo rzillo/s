@@ -1,6 +1,8 @@
 public class MyClass {
     public static void main(String args[]) {
         
+        //data types
+        
         int max = Integer.MAX_VALUE;
         int min = Integer.MIN_VALUE;
 
@@ -13,17 +15,19 @@ public class MyClass {
         boolean t = true;
         boolean f = false;
 
+        //simple operations
+        
         int first = 10;
         int second = 30;
         int third = first + second;
         
-        System.out.println("max int value = " + max);
-        System.out.println("min int value = " + min);
-        System.out.println("max float value = " + maxf);
-        System.out.println("min float value = " + minf);
-        System.out.println("max double value = " + x);
-        System.out.println("min double value = " + y);
-        System.out.println("The sum is " + third);
+        //System.out.println("max int value = " + max);
+        //System.out.println("min int value = " + min);
+        //System.out.println("max float value = " + maxf);
+        //System.out.println("min float value = " + minf);
+        //System.out.println("max double value = " + x);
+        //System.out.println("min double value = " + y);
+        //System.out.println("The sum is " + third);
         
     }
 }
