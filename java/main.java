@@ -26,9 +26,11 @@ public class MyClass {
         
         int first = 10;
         int second = 30;
-        int third = first + second;        
+        int third = first + second;  
+        int forth = second / first;
      
         //System.out.println("The sum is " + third);
+        //System.out.println("forth = " + forth);
         
     }
 }
