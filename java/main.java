@@ -33,6 +33,11 @@ public class MyClass {
         //System.out.println("fifth = " + fifth);
         //System.out.println("The sum is " + third);
         //System.out.println("forth = " + forth);
+
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }    
         
     }
 }
