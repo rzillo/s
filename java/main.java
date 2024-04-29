@@ -47,6 +47,7 @@ public class MyClass {
             //System.out.println(i / 2);
             
         }    
-        
+
+        //study while and ifs
     }
 }
