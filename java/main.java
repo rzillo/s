@@ -51,7 +51,6 @@ public class MyClass {
         //study while and ifs
 
         int tempo_empresa = 6;
-
         if (tempo_empresa < 10) {
             System.out.println("Tempo de empresa insuficiente!!");                           
         } else {
