@@ -54,8 +54,7 @@ public class MyClass {
             System.out.println("Ótimo! Você já é funcinário a bastante tempo!!");             
         }    
 
-
-        
+        //study class and other stuff        
         
     }
 }
