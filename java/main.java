@@ -27,8 +27,8 @@ public class MyClass {
         int first = 10;
         int second = 30;
         int third = first + second;  
-        int forth = second / first;
-        int fifth = 300 * 5;
+        //int forth = second / first;
+        //int fifth = 300 * 5;
      
         //System.out.println("fifth = " + fifth);
         //System.out.println("The sum is " + third);
