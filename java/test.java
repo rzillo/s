@@ -9,6 +9,7 @@ public class QueueExample {
 		queue.add("apple");
 		queue.add("banana");
 		queue.add("cherry");
+		queue.add("dragon fruit");
 
 		// print the queue
 		System.out.println("Queue: " + queue);
